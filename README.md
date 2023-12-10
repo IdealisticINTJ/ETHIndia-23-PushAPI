@@ -29,7 +29,11 @@
 
     [DeCohere ](https://github.com/mohammadshaad/ethindia-23-push-api)
 
-## Revolutionizing Civic Journalism through Social Activism
+=======
+
+# <p align="center">DeCohere</p>
+
+## <p align="center">Revolutionizing Civic Journalism through Social Activism</p>
 
 <p align="center">
     DeCohere provides a decentralized, censorship-resistant platform for activists and policy journalists, empowering them to organize events, collaborate transparently, and communicate securely. Leveraging blockchain technology, DeCohere ensures data integrity, protecting against manipulation and censorship often associated with centralized platforms. Seamlessly streamlining activism logistics, it amplifies individual impact, preserving the authenticity of messages in the relentless pursuit of justice.
@@ -122,8 +126,6 @@ You'll now be able to view your application at [http://localhost:3000](http://lo
 
 ## Future Scope
 
-<<<<<<< HEAD
-
 | Feature                                  | Description                                                                                                                                                                                      | Status                      |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
 | **Localized Currency and Deal Analysis** | Provide users with the option to choose localized currencies based on their regions. Implement a system to analyze and highlight special deals, discounts, or promotions from various retailers. | <ul><li>[ ] To Do</li></ul> |
@@ -131,8 +133,6 @@ You'll now be able to view your application at [http://localhost:3000](http://lo
 | **Price History Visualization**          | Include a graphical representation of the price history for products, allowing users to visually track trends and fluctuations.                                                                  | <ul><li>[ ] To Do</li></ul> |
 | **Drop Probability Analysis**            | Integrate a feature that estimates the probability of a price drop in the near future based on current price and historical data.                                                                | <ul><li>[ ] To Do</li></ul> |
 | **Price Change Alerts**                  | Implement a feature for users to set price change alerts. Users receive notifications when the price drops below a predefined threshold.                                                         | <ul><li>[ ] To Do</li></ul> |
-
-# =======
 
 ## Future Scope
 
@@ -143,8 +143,6 @@ You'll now be able to view your application at [http://localhost:3000](http://lo
 | **Price History Visualization**          | Include a graphical representation of the price history for products, allowing users to visually track trends and fluctuations.                                                                  | <ul><li>[ ] To Do</li></ul> |
 | **Drop Probability Analysis**            | Integrate a feature that estimates the probability of a price drop in the near future based on current price and historical data.                                                                | <ul><li>[ ] To Do</li></ul> |
 | **Price Change Alerts**                  | Implement a feature for users to set price change alerts. Users receive notifications when the price drops below a predefined threshold.                                                         | <ul><li>[ ] To Do</li></ul> |
-
-=======
 
 | Feature                    | Description                                                                                         | Status |
 | -------------------------- | --------------------------------------------------------------------------------------------------- | ------ |
